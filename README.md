@@ -5,3 +5,4 @@ The template for this repository comes from this [blog post](https://blog.jetbra
 ## Current Solved State
 
   * Day 01: ⭐⭐
+  * Day 02: ⭐
