@@ -6,4 +6,4 @@ The template for this repository comes from this [blog post](https://blog.jetbra
 
   * Day 01: ⭐⭐
   * Day 02: ⭐⭐
-  * Day 03: ⭐
+  * Day 03: ⭐⭐
